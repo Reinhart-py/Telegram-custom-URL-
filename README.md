@@ -2,7 +2,7 @@
 # 🏷️ Telegram Custom DM/PM URL Maker  
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org) [![Telegram](https://img.shields.io/badge/Telegram-Bot-success?logo=telegram)](https://telegram.org)
 
-Telegram bot that creates custom DM/PM links with encoded messages — fast, easy, and no hassle.  
+Telegram bot that creates custom DM/PM links with encoded messages - fast, easy, and no hassle.  
 Just choose a username, type your message, and get your unique shareable link! 🚀
 
 ---
